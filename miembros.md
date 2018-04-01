@@ -1,5 +1,6 @@
 # Miembros
 
+* Capital America
 * Black panther
 * Black Widow
 * Capitán Marvel
